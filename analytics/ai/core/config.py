@@ -1,0 +1,3 @@
+MODEL_NAME = "gemma:2b"
+OLLAMA_URL = "http://localhost:11434/api/generate"
+TIMEOUT = 120
